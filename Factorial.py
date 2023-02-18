@@ -6,6 +6,8 @@ n=int(input("Enter any number:"))
 # result=math.factorial(n)
 # print(result)
 
+
+#recurrsion
 def fact(n):
     if n==0:
         return 1
